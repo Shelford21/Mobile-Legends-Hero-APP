@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/layout_activity_splash_screen.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/menu_menu_main.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/layout_activity_about.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_jawhead.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/jawhead.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_miya.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/miya.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_julian.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/julian.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_brody.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/brody.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_line.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/line.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_ahmad_dahlan.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/ahmad_dahlan.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_johnson.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/johnson.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/layout_item_row_hero.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/layout/item_row_hero.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_layla.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/layla.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_supomo.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/supomo.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_ahmad_yani.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/ahmad_yani.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_baseline_people_24.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/baseline_people_24.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_intro.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/intro.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_alucard.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/alucard.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_hitam.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/hitam.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_gatot_subroto.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/gatot_subroto.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_sudirman.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/sudirman.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_bruno.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/bruno.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_bung_tomo.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/bung_tomo.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_zilong.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/zilong.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/layout_activity_detail.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_ki_hadjar_dewantara.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/ki_hadjar_dewantara.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_lapulapu.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/lapulapu.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_line2.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/line2.jpg"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_mohammad_hatta.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/mohammad_hatta.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_sukarno.png.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/sukarno.png"
+    },
+    {
+        "merged": "com.dicoding.heromlfauzan.app-merged_res-28:/drawable_balmond.jpg.flat",
+        "source": "com.dicoding.heromlfauzan.app-main-30:/drawable/balmond.jpg"
+    }
+]
