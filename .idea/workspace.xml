@@ -37,7 +37,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b88e325-924d-46c2-b604-33dabccf1861" name="Changes" comment="" />
+    <list default="true" id="1b88e325-924d-46c2-b604-33dabccf1861" name="Changes" comment="git commit -m &quot;first commit&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +124,7 @@
     "project.structure.last.edited": "Variables",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="PsdUISettings">
@@ -220,6 +222,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701005445241</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;first commit&quot;">
+      <created>1717514825642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717514825642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,5 +242,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;first commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;first commit&quot;" />
   </component>
 </project>
